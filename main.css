@@ -1,0 +1,34 @@
+@charset "utf-8";
+
+
+
+body 
+{
+    background:lightsteelblue;
+    font-family: monospace, fantasy, sans-serif;
+}
+
+header 
+{
+    background-color:palevioletred;
+}
+
+h1{color:whitesmoke;}
+nav > ul 
+{
+    line-height:1em;
+    list-style-type: none;
+    padding-left:5px;
+}
+
+section
+{
+    background-color:rosybrown;
+    width: 75%;
+    font-size:1.2;
+}
+
+footer
+{
+    background-color: palevioletred;
+}
